@@ -54,7 +54,7 @@ cin >> height;
 cout << "ENTER THE RADIUS OF CYLINDER ";
 cin >> radius;
 float volume;
-volume = 2*3.14*radius*height;
+volume = 3.14*radius*height;
 cout << "VOLUME OF CYLINDER IS : " << volume;
 }
 
